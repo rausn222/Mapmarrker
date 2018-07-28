@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "426791009872",
+    "firebase_url": "https://mapmaker-becf4.firebaseio.com",
+    "project_id": "mapmaker-becf4",
+    "storage_bucket": "mapmaker-becf4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426791009872:android:ff762abe554241ac",
+        "android_client_info": {
+          "package_name": "com.example.raushan.map_maker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426791009872-85jn9irh982rbnfuu0tj653gdvj910vb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.raushan.map_maker",
+            "certificate_hash": "945d59f75cdf085768a3849c54d8a450615706a4"
+          }
+        },
+        {
+          "client_id": "426791009872-d2ek5fils05trrr3t3tnsi1fnunen4er.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgpRsLUeupV_UC-jmCNDlOZDeQOV8ScyM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426791009872-d2ek5fils05trrr3t3tnsi1fnunen4er.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
